@@ -20,8 +20,8 @@ __Genes checked:__
 ## __Method__ 
 -  Processing Raw Data ([Shell script pipeline](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/ribo_profiling_pipeline_stdin.sh))
 -  Statistical Analysis ([R script for DE analysis](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/GIR2%20vs%20WT%20differential%20analysis.R))
+- See [methods.md](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/methods.md) for additional detailed steps
 
-See [methods.md]() for detailed steps.
 
 
 ## Results
@@ -49,6 +49,7 @@ See [methods.md]() for detailed steps.
   - YNL011C:  -1.8 logFC
 - SPO24 is not significantly changed.
 
+My results concur with the findings in the publication (Egorov et al. (2021)).
 
 
 
