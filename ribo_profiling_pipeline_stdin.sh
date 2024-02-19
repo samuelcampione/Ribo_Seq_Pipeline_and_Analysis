@@ -8,7 +8,6 @@
 # - (4) align and output quantification of non-rRNA reads
 # Notes: 
 # - requires standard input file with one SRA per line
-# - assumes 
 ########################################################################
 
 
