@@ -30,12 +30,24 @@ See [methods.md]() for detailed steps.
   <tr>
     <td>
       <img src="https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/gir2_vs_wt_logFC.png" width="400"/>
+      <br>
+      Results from DE analysis.
     </td>
     <td>
       <img src="https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/figure1B.png" width="400"/>
+      <br>
+      Figure 1B from Egorov et al. (2021).
     </td>
   </tr>
 </table>
+
+- Upregulated similar to Egorov et al.
+  - STR3: 	   1.6 logFC
+  - SNF3: 	   1.4 logFC
+- Downregulated similar to Egorov et al.
+  - snR86:	  -2.1 logFC
+  - YNL011C:  -1.8 logFC
+- SPO24 is not significantly changed.
 
 
 
