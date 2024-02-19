@@ -12,3 +12,5 @@
 - Differential Expression Analysis (edgeR)
 - Identify differentially expressed genes and extract log2 fold changes of specific genes
 
+## Dependencies
+See [environment.yml](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/environment.yml) for package versions.
