@@ -1,5 +1,18 @@
 #!/bin/bash
 
+########################################################################
+# Bioinformatics pipeline for Ribo-seq data:
+# - (1) download raw reads from SRA inputs
+# - (2) trim adapters, remove duplicates, trim unique barcodes
+# - (3) filter out ribosomal RNA against s cerevisiae rRNA
+# - (4) align and output quantification of non-rRNA reads
+# Notes: 
+# - requires standard input file with one SRA per line
+# - assumes 
+########################################################################
+
+
+
 # check if the input argument is provided
 if [ $# -eq 0 ]; then
     echo "No file path provided. Exiting."
