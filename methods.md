@@ -1,6 +1,6 @@
 # __Method__
 ## Processing Raw Data ([Shell script pipeline](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/ribo_profiling_pipeline_stdin.sh))
-- Acquire raw reads data from GEO
+- Acquire raw reads data from SRA
 - Trim adapters and filter low quality reads (cutadapt)
 - Deduplicate (seqkit rmdup)
 - Remove unique barcodes (cutadapt)
