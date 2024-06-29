@@ -18,8 +18,8 @@ __Genes checked:__
 
 
 ## __Method__ 
--  Processing Raw Data ([Shell script pipeline](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/ribo_profiling_pipeline_stdin.sh))
--  Statistical Analysis ([R script for DE analysis](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/GIR2%20vs%20WT%20differential%20analysis.R))
+-  Processing Raw Data ([pipeline.sh](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/pipeline.sh))
+-  Statistical Analysis ([analysis.R](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/analysis.R))
 - See [methods.md](https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/methods.md) for additional detailed steps
 
 
@@ -29,12 +29,12 @@ __Genes checked:__
 <table>
   <tr>
     <td>
-      <img src="https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/gir2_vs_wt_logFC.png" width="400"/>
+      <img src="https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/visualizations/figure1B.png" width="400"/>
       <br>
       Results from DE analysis.
     </td>
     <td>
-      <img src="https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/figure1B.png" width="400"/>
+      <img src="https://github.com/samuelcampione/Ribo_Seq_Pipeline_and_Analysis/blob/main/visualizations/gir2_vs_wt_logFC.png" width="400"/>
       <br>
       Figure 1B from Egorov et al. (2021).
     </td>
